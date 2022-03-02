@@ -1,14 +1,11 @@
 import Head from 'next/head'
 import styles from '../styles/Home.module.css'
-import Navbar from '../comps/Navbar'
-import Footer from '../comps/footer'
 import Link from 'next/link'
 
 
 
 export default function Home() {
   return (
-  // <Box w="200px" h="15vh" box-shadow="1g" rounded="lg" />;
     <>
       <Head>
         <title>Ninja List | Home </title>
