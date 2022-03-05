@@ -1,7 +1,5 @@
 
-# Project Title
-
-Ninjalist - Next.js Project
+# Ninjalist - Next.js Project
 
 The techs used in this project 
 1. Next.js
